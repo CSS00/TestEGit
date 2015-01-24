@@ -6,6 +6,8 @@ public class Me {
 		// My first line is gone, now what?
 		// Third
 		// why
+		
+		// different line
 	}
 
 }
